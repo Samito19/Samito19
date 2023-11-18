@@ -1,5 +1,5 @@
 ## 💫 About me
-Hi 👋. My name is Sami, and I am a `Software Developer` living in the U.S 🇺🇸
+Hi 👋. My name is Sami, and I am a `Software Engineer` living in the U.S 🇺🇸
 
 
 ## 👨‍💻 Tech skills
